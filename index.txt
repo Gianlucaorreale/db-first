@@ -1,0 +1,13 @@
+CARS   |    TIPO DI DATO   |             ATTRIBUTI           |   INDICE   |
+
+ID     |     BIG INT       | UNIQUE, NOT NULL, AUTO INCREMENT| PRIMARY KEY|
+
+COMPANY|     VARCHAR       | NOT NULL                        |            |
+
+*YEAR  |     DATE          | NOT NULL                        |            |
+
+PRICE  |     BIG INT       | NOT NULL                        |            |
+
+ENIGINE|     VARCHAR       | NOT NULL                        |            |
+
+FUEL   |     VARCHAR       | NOT NULL                        |            |
